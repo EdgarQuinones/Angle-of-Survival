@@ -19,4 +19,4 @@ Developed in approximately 7 hours for [Trijam #358](https://itch.io/jam/trijam-
 
 ## Play Now
 
-Interested in playing? Play Angle of Survival [on itch.io](https://edgarquinones.itch.io/ground-zero)! 
+Interested in playing? Play Angle of Survival [on itch.io](https://edgarquinones.itch.io/angle-of-survival)! 
