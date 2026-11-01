@@ -9,8 +9,8 @@ public class Spawner : MonoBehaviour
 
     [Header("Timing Settings")]
     public float totalGameTime = 30f; // How long the spawner runs
-    public float startSpawnInterval = 2.0f; // Seconds between spawns at the START
-    public float minSpawnInterval = 0.5f;   // The fastest it can ever get (Cap)
+    public float startSpawnInterval = 5.0f; // Seconds between spawns at the START
+    public float minSpawnInterval = 2.0f;   // The fastest it can ever get (Cap)
     public float speedUpAmount = 0.1f;      // How much faster to get every spawn
 
     private void Start()
